@@ -14,6 +14,9 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
+![image](https://github.com/siddhartha237/Excel-Sales-and-Finance-Analytics/assets/146628886/62492806-fecd-4dbc-8566-b589fbbfcf62)
+
+
 
 ## Finance Report :
 
@@ -36,6 +39,9 @@
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
+
+
+
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
@@ -43,3 +49,12 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+![image](https://github.com/siddhartha237/Excel-Sales-and-Finance-Analytics/assets/146628886/45dbabe7-af48-4128-94b8-c511ac81ea59)
+
+![image](https://github.com/siddhartha237/Excel-Sales-and-Finance-Analytics/assets/146628886/cabc4bed-10ed-4401-acfd-93f53cd12c25)
+
+![image](https://github.com/siddhartha237/Excel-Sales-and-Finance-Analytics/assets/146628886/c8e2134a-d48f-46b4-81be-7864505077d5)
+
+
+
